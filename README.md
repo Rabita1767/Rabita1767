@@ -1,5 +1,3 @@
-# Hi there 👋, I'm Rabita Amin!
-
 🎓 **BSc in Information Technology** from Jahangirnagar University.
 
 💻 **Full Stack Developer** specializing in the MERN stack.
