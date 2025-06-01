@@ -20,7 +20,7 @@
 
 ### 📫 How to reach me:
 
-- Email: [rabitaamin015@gmail.com](mailto:rabitaamin015@gmail.com)
+- Email: [rabitaamin26@gmail.com](mailto:rabitaamin26@gmail.com)
 - LinkedIn: [Rabita Amin](https://www.linkedin.com/in/rabita-ra67/)
 - GitHub: [Rabita1767](https://github.com/Rabita1767)
 
